@@ -1,3 +1,4 @@
+Sebastián Rodríguez De Alba | DISEÑO DE SISTEMAS EMBEBIDOS | GPO: 001 | UANL-FIME | Realizado con apoyo del Doc.HECTOR GILBERTO BARRON GONZALEZ
 # PantallaOLEDSPI_SensorBMP280
 Firmware en ESP-IDF para ESP32 que lee temperatura, presión y altitud de un sensor BMP280 por I²C y las muestra en una pantalla OLED SSD1306 de 128x64 por SPI, además de enviarlas por el puerto serie.
 Proyecto en **ESP-IDF** para el **ESP32** que mide temperatura, presión atmosférica y altitud con un sensor **BMP280** (I²C) y muestra los datos en una pantalla **OLED SSD1306 de 128x64** (SPI). Los valores también se envían por el puerto serie.
